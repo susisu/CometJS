@@ -1,0 +1,22 @@
+{
+  "name": "comet-js",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/susisu/CometJS.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Susisu <susisu2413@yahoo.co.jp> (https://github.com/susisu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/susisu/CometJS/issues"
+  },
+  "homepage": "https://github.com/susisu/CometJS"
+}
