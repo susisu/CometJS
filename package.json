@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/susisu/CometJS/issues"
   },
-  "homepage": "https://github.com/susisu/CometJS"
+  "homepage": "https://github.com/susisu/CometJS",
+  "dependencies": {
+    "electronvolt": "^1.0.1"
+  }
 }
