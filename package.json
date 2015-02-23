@@ -21,6 +21,6 @@
   "homepage": "https://github.com/susisu/CometJS",
   "dependencies": {
     "electronvolt": "^1.0.1",
-    "loquat": "^1.2.0"
+    "mlk": "git://github.com/susisu/mlk.git"
   }
 }
